@@ -1,6 +1,6 @@
 ## Hi there, I'm Bilal👋
 
-##Software Developer
+## Software Developer
 - 🌱 I’m currently learning
 
 
