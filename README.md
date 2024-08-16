@@ -19,14 +19,14 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h2cnEyeWRxY29vdnNjdDB4c2F1Z2pjemVzdHc1c2lhbXdxdGQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazV4anRib2puNWl4Njlxc3V6eW5waTFhMDR3ODY1cWRwY2huOG45YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp" width="600" height="300"/>
 </div>
 
 ---
 
 ### 👨‍💻 About me:
 
-I am a Computer Science student with a passion for both software and hardware.
+I am a Software Engineering student and a tech enthusiast.
 
 :mailbox: Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Bilal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bilalr4m/)
 
