@@ -23,10 +23,9 @@
 
 ---
 
-### <> About me:
+### 💻 About me:
 
-I am a software engineering student and a tech enthusiast.
-
+I am a software engineering undergraduate and a tech enthusiast.
 
 ---
 
