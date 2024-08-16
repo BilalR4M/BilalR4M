@@ -51,10 +51,6 @@ I am a software engineering student and a tech enthusiast.
 ### 🔗 Let's Connect 
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
-
-<p align="center">
   <a href="https://x.com/bilz0_0" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
