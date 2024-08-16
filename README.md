@@ -23,7 +23,7 @@
 
 ---
 
-### 👨‍💻 About me:
+### 🐱‍👤 About me:
 
 I am a software engineering undergraduate and a tech enthusiast.
 
@@ -40,6 +40,8 @@ I am a software engineering undergraduate and a tech enthusiast.
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,spring,mongodb,jest,mysql,androidstudio,figma,git)](https://skillicons.dev)
 
 ---
+
+### 🐱‍💻 Github Activity
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BilalR4M&theme=dark&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
