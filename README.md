@@ -31,15 +31,15 @@ I am a software engineering student and a tech enthusiast.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Tech Stack:
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,c++,java,kotlin,python,js,ts,php,html,css,tailwind)](https://skillicons.dev)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,electron,nodejs,firebase,jest,mysql,androidstudio,figma,githubactions,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,oracle,mongodb,jest,mysql,androidstudio,figma,git)](https://skillicons.dev)
 
 ---
 
