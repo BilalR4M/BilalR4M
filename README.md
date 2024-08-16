@@ -1,4 +1,7 @@
 <div id="header" align="center">
+  <h1 align="center">
+  Hello, I'm Bilal!
+  </h1>
   <div>
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVnNXh6Ym5vODFmcTJjcXlxZmg3bGFhcjI3NXM4dmVva2I1aTZtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" width="150"/>
   </div>
@@ -13,10 +16,6 @@
     <img src="https://komarev.com/ghpvc/?username=BilalR4M&style=flat-square&color=blue" alt=""/>
   </div>
 </div>
-
-<h1 align="center">
-  Hello, I'm Bilal!
-</h1>
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazV4anRib2puNWl4Njlxc3V6eW5waTFhMDR3ODY1cWRwY2huOG45YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp" width="500" height="400"/>
