@@ -39,7 +39,7 @@ I am a software engineering student and a tech enthusiast.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,oracle,mongodb,jest,mysql,androidstudio,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,spring,mongodb,jest,mysql,androidstudio,figma,git)](https://skillicons.dev)
 
 ---
 
