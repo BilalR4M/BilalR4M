@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About me:
 
-I am a Software Engineering student and a tech enthusiast.
+I am a software engineering student and a tech enthusiast.
 
 :mailbox: Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-Bilal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bilalr4m/)
 
