@@ -35,7 +35,7 @@ I am a software engineering student and a tech enthusiast.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,c++,java,kotlin,python,js,ts,php,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,ts,php,html,css,tailwind)](https://skillicons.dev)
 
 <br>
 
