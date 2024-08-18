@@ -3,7 +3,7 @@
   Hello, I'm Bilal!
   </h1>
   <div>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVnNXh6Ym5vODFmcTJjcXlxZmg3bGFhcjI3NXM4dmVva2I1aTZtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" width="150"/>
+    <img src="https://komarev.com/ghpvc/?username=BilalR4M&style=flat-square&color=blue" alt=""/>
   </div>
   <br>
   <div id="badges">
@@ -12,9 +12,6 @@
     </a>
   </div>
   <br>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=BilalR4M&style=flat-square&color=blue" alt=""/>
-  </div>
 </div>
 
 <div align="center">
