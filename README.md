@@ -30,11 +30,11 @@ I am a software engineering undergraduate and a tech enthusiast.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,ts,php,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,dart,python,js,ts,php,html,css,tailwind)](https://skillicons.dev)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,spring,mongodb,jest,mysql,androidstudio,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,spring,mongodb,jest,mysql,flutter,androidstudio,figma,git)](https://skillicons.dev)
 
 ---
 
