@@ -34,7 +34,7 @@ I am a software engineering undergraduate and a tech enthusiast.
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,spring,mongodb,jest,mysql,flutter,androidstudio,figma,git,material)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,spring,mongodb,jest,mysql,flutter,androidstudio,figma,git,materialui)](https://skillicons.dev)
 
 ---
 
