@@ -1,6 +1,6 @@
-
+<div id="header" align="center">
   <h1>
-    Hello, I'm Bilal! <img src="waving-image.png" alt="waving hand" width="40"/>
+    Hello, I'm Bilal! ![image](https://github.com/user-attachments/assets/302b7cad-b8a5-4016-b878-5ba1441774b5)
   </h1>
   <div>
     <img src="https://komarev.com/ghpvc/?username=BilalR4M&style=flat-square&color=blue" alt="Profile Views"/>
