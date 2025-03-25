@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <h1>
-    Hello, I'm Bilal! <img src="![image](https://github.com/user-attachments/assets/b83e9710-d217-4776-84a7-9718d7068f4b)
-" width="40"/>
+    Hello, I'm Bilal! 
   </h1>
   <div>
     <img src="https://komarev.com/ghpvc/?username=BilalR4M&style=flat-square&color=blue" alt="Profile Views"/>
