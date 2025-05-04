@@ -19,7 +19,7 @@ I'm a Software Engineering undergraduate passionate about coding, exploring new 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BilalR4M&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilalR4M&show_icons=true&theme=dark)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalR4M&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalR4M&layout=compact&theme=dark)
 
 ---
 
