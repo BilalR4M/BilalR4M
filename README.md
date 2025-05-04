@@ -1,56 +1,30 @@
-<div id="header" align="center">
-  <h1>
-    Hello, I'm Bilal! <img src="![image](https://github.com/user-attachments/assets/b83e9710-d217-4776-84a7-9718d7068f4b)"/>
-  </h1>
-  <br>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/bilalr4m/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <br>
-</div>
+# Hello, I'm Bilal 👋
 
+I'm a Software Engineering undergraduate passionate about coding, exploring new technologies, and building impactful solutions.
 
 ---
 
-### 👨‍💻 About Me
+## 🔧 Tech Stack
 
-I'm a software engineering undergraduate with a passion for coding and exploring new technologies. I enjoy collaborating on projects, learning from others, and building impactful solutions.
-
----
-
-### 🔧 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,dart,python,js,ts,php,html,css,tailwind)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,spring,mongodb,jest,mysql,flutter,androidstudio,figma,git,materialui)](https://skillicons.dev)
+- Languages: C, C++, Java, Kotlin, Dart, Python, JavaScript, TypeScript, PHP
+- Web: HTML, CSS, Tailwind, React, Next.js, Node.js
+- Mobile: Flutter, Android
+- Backend: Spring Boot, MongoDB, MySQL
+- Tools: Git, Figma, Material UI, Jest
 
 ---
 
-### 📈 GitHub Activity
+## 📊 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BilalR4M&theme=dark&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilalR4M&theme=radical&border_radius=15&)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalR4M&layout=compact&theme=dark&border_radius=15&)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BilalR4M&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilalR4M&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalR4M&layout=compact)
 
 ---
 
-### 🔗 Let's Connect 
+## 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://x.com/bilz0_0" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bilalr4m/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/bilz0_0/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/mohommed.bilal.3/" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/bilalr4m/)
+- [Twitter](https://x.com/bilz0_0)
+- [Instagram](https://www.instagram.com/bilz0_0/)
+- [Facebook](https://www.facebook.com/mohommed.bilal.3/)
