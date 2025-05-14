@@ -9,7 +9,7 @@ I'm a Software Engineering undergraduate passionate about coding, exploring new 
 - Languages: C, C++, Java, Kotlin, Dart, Python, JavaScript, TypeScript, PHP
 - Web: HTML, CSS, Tailwind, React, Next.js, Node.js
 - Mobile: Flutter, Android
-- Backend: Spring Boot, MongoDB, MySQL
+- Backend: Node, Spring Boot, MongoDB, MySQL
 - Tools: Git, Figma, Material UI, Jest
 
 ---
