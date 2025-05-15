@@ -70,7 +70,7 @@ I'm a Software Engineering undergraduate passionate about building user-centered
     </tr>
     <tr>
     <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalR4M&layout=compact&theme=radical&langs_count=6" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalR4M&layout=compact&theme=radical&langs_count=6" height="200" width="100%"/>
     </td>
   </tr>
 </table>
