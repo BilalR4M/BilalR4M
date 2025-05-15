@@ -15,6 +15,7 @@ I'm a Software Engineering undergraduate passionate about building user-centered
 - 🎓 Software Engineering undergraduate
 - 🌱 Currently learning Next.js
 - 👯 Looking to collaborate on web development projects
+- 💬 Ask me about web development, mobile apps, or anything tech.
 - ⚡ Fun fact: I play FPS games.
 
 ## 🔧 Languages and Tools
