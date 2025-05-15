@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BilalR4M/BilalR4M/main/assets/github-header-image.png" alt="Bilal's GitHub Banner" width="100%"/>
+  <img src="[https://raw.githubusercontent.com/BilalR4M/BilalR4M/main/assets/github-header-image.png" alt="Bilal's GitHub Banner](https://tenor.com/view/icarus-wings-crash-and-burn-close-to-the-sun-kid-icarus-gif-3166552294474080985)" width="100%"/>
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalr4m/)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bilz0_0)
