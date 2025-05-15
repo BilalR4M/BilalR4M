@@ -20,17 +20,6 @@ I'm a Software Engineering undergraduate passionate about building user-centered
 - 💬 Ask me about **web development, mobile apps, or anything tech**
 - ⚡ Fun fact: **[Interesting fact about yourself]**
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/BilalR4M/project-name-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BilalR4M&repo=project-name-1&theme=dark" />
-  </a>
-  <a href="https://github.com/BilalR4M/project-name-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BilalR4M&repo=project-name-2&theme=dark" />
-  </a>
-</div>
-
 ## 🔧 Languages and Tools
 
 <div align="center">
