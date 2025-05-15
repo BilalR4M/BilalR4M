@@ -2,15 +2,13 @@
   <img src="https://raw.githubusercontent.com/BilalR4M/BilalR4M/main/assets/stray-programming.gif" alt="Bilal's GitHub Banner" width="100%"/>
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalr4m/)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bilz0_0)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bilz0_0/)
 </div>
 
 # Hello, I'm Bilal 👋
 
 I'm a Software Engineering undergraduate passionate about building user-centered applications that solve real-world problems. I enjoy exploring new technologies and contributing to meaningful projects that make a difference.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/esc-skullduggery-press-escape-zLQO5GZUNmLlVDP9tr">
 
 ## 👨‍💻 About Me
 
