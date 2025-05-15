@@ -13,10 +13,9 @@ I'm a Software Engineering undergraduate passionate about building user-centered
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering undergraduate
-- 🌱 Currently learning **[Current Focus Technology]**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, mobile apps, or anything tech**
-- ⚡ Fun fact: **[Interesting fact about yourself]**
+- 🌱 Currently learning Next.js
+- 👯 Looking to collaborate on web development projects
+- ⚡ Fun fact: I play FPS games.
 
 ## 🔧 Languages and Tools
 
