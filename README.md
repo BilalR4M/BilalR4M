@@ -10,7 +10,7 @@
 
 I'm a Software Engineering undergraduate passionate about building user-centered applications that solve real-world problems. I enjoy exploring new technologies and contributing to meaningful projects that make a difference.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👨‍💻 About Me
 
