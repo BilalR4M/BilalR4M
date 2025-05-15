@@ -69,8 +69,11 @@ I'm a Software Engineering undergraduate passionate about building user-centered
     <td><img src="https://github-readme-streak-stats.herokuapp.com?user=BilalR4M&theme=radical&border_radius=15" alt="GitHub Streak" height="200"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalR4M&layout=compact&theme=radical&border_radius=15&langs_count=6" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=BilalR4M&theme=radical&no-frame=true&margin-w=10&row=1&column=4" alt="Trophies" width="400" />
     </td>
   </tr>
 </table>
