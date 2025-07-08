@@ -5,7 +5,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalr4m/)
 </div>
 
-I'm a Software Engineering undergraduate passionate about building user-centered applications that solve real-world problems. I enjoy exploring new technologies and contributing to meaningful projects that make a difference.
+Software Engineering undergraduate focused on building full-stack applications using Java Spring Boot, Node.js, Next.js, and Flutter. I work across backend and frontend systems, with a practical approach to solving technical problems and delivering working software.
 
 ## 👨‍💻 About Me
 
