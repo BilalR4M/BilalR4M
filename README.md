@@ -1,6 +1,6 @@
 # Hello, I'm Bilal 👋
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BilalR4M/BilalR4M/main/assets/stray-programming.gif" alt="Bilal's GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/BilalR4M/BilalR4M/main/assets/stray-programming.gif" alt="Bilal's GitHub Banner" width="45%" />
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalr4m/)
 </div>
