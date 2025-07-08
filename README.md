@@ -1,10 +1,9 @@
+# Hello, I'm Bilal 👋
 <div align="center">
   <img src="https://raw.githubusercontent.com/BilalR4M/BilalR4M/main/assets/stray-programming.gif" alt="Bilal's GitHub Banner" width="100%" />
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalr4m/)
 </div>
-
-# Hello, I'm Bilal 👋
 
 I'm a Software Engineering undergraduate passionate about building user-centered applications that solve real-world problems. I enjoy exploring new technologies and contributing to meaningful projects that make a difference.
 
